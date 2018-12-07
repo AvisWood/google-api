@@ -1,0 +1,48 @@
+body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.mapContainer{
+    height: 500px;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    border-bottom: solid;
+    border-top: solid;
+    color: black;
+    margin-bottom: 50px;
+    
+}
+#map{
+    /* background-color: blue; */
+    height: 100%;
+    width: 550px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.jumbotron{
+    text-align: center;
+    background-color: black;
+    color: white;
+   
+}
+
+.nav-item{
+    color: black;
+}
+
+#submitButton{
+    margin-bottom: 50px;
+}
+
+iframe{
+    margin: 10px;
+}
+.jumbotron h1{
+    font-size: 75px;
+    font-family: fantasy;
+}
